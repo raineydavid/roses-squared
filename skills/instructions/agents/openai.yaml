@@ -1,0 +1,5 @@
+interface:
+  default_prompt: I’m feeling stressed out and don’t know where to start.
+  display_name: ROSES SQUARED™
+  short_description: Personalized health and wellbeing guidance based on the ROSES²
+    ™

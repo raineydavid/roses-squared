@@ -1,0 +1,27 @@
+{
+  "author": {
+    "name": "aiforpractice.com",
+    "url": "https://aiforpractice.com"
+  },
+  "description": "Personalized health and wellbeing guidance based on the ROSES² ™ framework.",
+  "interface": {
+    "capabilities": [
+      "skills"
+    ],
+    "category": "Other",
+    "composerIcon": "./assets/gpt-icon.png",
+    "defaultPrompt": [
+      "I’m feeling stressed out and don’t know where to start.",
+      "I want to lose weight but struggle with meal planning.",
+      "I don’t have energy and need help building a routine."
+    ],
+    "developerName": "aiforpractice.com",
+    "displayName": "ROSES SQUARED™",
+    "logo": "./assets/gpt-icon.png",
+    "longDescription": "Personalized health and wellbeing guidance based on the ROSES² ™ framework.",
+    "shortDescription": "Personalized health and wellbeing guidance based on the ROSES² ™ framework."
+  },
+  "name": "gpt-ddfa85736415380443e7408ddd234e24",
+  "skills": "./skills/",
+  "version": "0.1.1+bundle.7204965b1df8a0c730033388c3c6d151"
+}
